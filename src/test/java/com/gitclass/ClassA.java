@@ -10,4 +10,14 @@ public class ClassA {
 		private void method3() {
 			System.out.println("3");
 		}
+		private void india() {
+			System.out.println("India");
+			}
+		private void australia() {
+			System.out.println("Australia");
+         }
+		private void usa() {
+			System.out.println("USA");
+         }
+		
 }
